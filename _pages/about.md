@@ -9,4 +9,4 @@ redirect_from:
 ---
 
 I am a masters student at Electrical Engineering Department, Indian Institute of Technology, Madras ([IIT Madras](https://www.iitm.ac.in/)), where I am advised by Prof [Rachel](https://www.ee.iitm.ac.in/rachel/). My research primarily focusses upon algorithm development for distributed control and optimization of multiagent systems. Currently, I am working on the intersection of online learning and distributed algorithms. I am also fascinated by the entanglement existing between renewable energy systems, game theory and learning techniques.    
-Before IIT Madras, I received a B.Tech in Electrical Engineering from National Institute of Technology, Durgapur.([NIT Durgapur](https://nitdgp.ac.in/)). While there, I dabbled in load flow dynamics study, and wind energy conversion systems. 
+Before IIT Madras, I received a B.Tech in Electrical Engineering from National Institute of Technology, Durgapur ([NIT Durgapur](https://nitdgp.ac.in/)). While there, I dabbled in load flow dynamics study, and wind energy conversion systems. 
