@@ -8,8 +8,6 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
-
 [[Resume]](https://darknorth0.github.io/files/Resume.pdf) 
 
 Last updated on Nov 2022.
