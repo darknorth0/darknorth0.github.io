@@ -9,6 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-[[Resume]](https://darknorth0.github.io/files/Resume.pdf) 
+[[Resume]](https://darknorth0.github.io/Resume.pdf) 
 
 Last updated on Nov 2022.
