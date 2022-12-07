@@ -15,7 +15,8 @@ Outside of academia, I am an avid fan of the works of Haruki Murakami and Matthe
 
 Highlights
 ------
-* [Dec '22] Student Volunteer for [ICC 2022](https://controlsociety.org/icc/)
+* [Dec '22] New pre-print out on Constrained Online Optimization for Power Networks.
+* [Nov '22] Volunteer In-Charge for [ICC 2022](https://controlsociety.org/icc/)
 * [Feb '22] Paper on Distributed Containment Control accepted at [ECC 2022](https://ecc22.euca-ecc.org/)
 * [Sept '21] Reviewer for [L-CSS](http://ieee-cssletters.dei.unipd.it/index.php) 
 * [Sept '21] Invited to be a Reviewer of [ACC 2021](https://acc2021.a2c2.org/)
