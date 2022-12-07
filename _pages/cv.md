@@ -11,4 +11,4 @@ redirect_from:
 
 [[Resume]](https://darknorth0.github.io/files/Resume.pdf)
 
-Last updated on Nov 2022.
+Last updated on Dec 2022.
