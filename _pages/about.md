@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a graduate student of [Control and Optimization](https://www.ee.iitm.ac.in/dynamic-control/) group, at Indian Institute of Technology, Madras ([IIT Madras](https://www.iitm.ac.in/)). I am advised by Prof. [Rachel](https://www.ee.iitm.ac.in/rachel/). My research primarily focusses upon algorithm development for distributed control and optimization of multiagent systems. Currently, I am working on the intersection of online learning and distributed algorithms. I am also fascinated by the aspects of entanglement between renewable energy systems, game theory and learning techniques.    
+I am a graduate student of [Control and Optimization](https://www.ee.iitm.ac.in/dynamic-control/) group, at Indian Institute of Technology, Madras ([IIT Madras](https://www.iitm.ac.in/)). I am being supervised by an awesome advisor and person Prof. [Rachel](https://www.ee.iitm.ac.in/rachel/). My research primarily focusses upon algorithm development for distributed control and optimization of multiagent systems. Currently, I am working on the intersection of online learning and distributed algorithms. I am also fascinated by the aspects of entanglement between renewable energy systems, game theory and learning techniques.    
 Before IIT Madras, I received a B.Tech in Electrical Engineering from National Institute of Technology, Durgapur ([NIT Durgapur](https://nitdgp.ac.in/)). While there, I dabbled in load flow dynamical studies, and wind energy conversion systems. 
 
 Outside of academia, I am an avid fan of the works of Haruki Murakami and Matthew Reilly. I also love to engage in discussions on wuxia and xianxia novels.
